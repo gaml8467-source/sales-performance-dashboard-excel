@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+# 📊 power bi Sales Dashboard
 
 An interactive Excel Sales Dashboard built using **SQL Server**, **Power Query**, **Pivot Tables**, **Pivot Charts**, **Power Pivot**, and **Slicers**.
 
