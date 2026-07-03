@@ -6,6 +6,10 @@ The project demonstrates the complete Excel Business Intelligence workflow, from
 
 ---
 
+<img src="https://raw.githubusercontent.com/gaml8467-source/sales-performance-dashboard-excel/refs/heads/main/sales-performance-dashboard-excel/Photo/Annotation%202026-07-03%20204934.png" width="900">
+
+
+
 # 📌 Project Overview
 
 This project consists of **two interactive dashboards** designed to analyze sales performance, customer behavior, products, territories, and order statistics.
@@ -116,7 +120,7 @@ These filters allow users to explore the data dynamically from different busines
 
 ## Dashboard 1 – Sales Performance
 
-<img src="" width="900">
+<img src="https://raw.githubusercontent.com/gaml8467-source/sales-performance-dashboard-excel/refs/heads/main/sales-performance-dashboard-excel/Photo/Annotation%202026-07-03%20204934.png" width="900">
 
 
 ---
