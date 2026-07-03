@@ -127,7 +127,7 @@ These filters allow users to explore the data dynamically from different busines
 
 ## Dashboard 2 – Customer & Product Analysis
 
-<img src="" width="900">
+<img src="https://raw.githubusercontent.com/gaml8467-source/sales-performance-dashboard-excel/refs/heads/main/sales-performance-dashboard-excel/Photo/Annotation%202026-07-03%20205019.png" width="900">
 
 ---
 
